@@ -1,0 +1,382 @@
+{
+  "id": "sun-positive-loop",
+  "repo_url": "",
+  "viewer_url": "",
+  "manifest_url": "",
+  "museum_copy": {
+    "title": "@positive_loop Solar Museum",
+    "subtitle": "Community Archive proof-of-search map.",
+    "warning": "Archive terrain, not reputation. Raw coverage ends where the archive/upload/API ends."
+  },
+  "sun": {
+    "id": "sun_2b51b88e1b5e",
+    "display_name": "positive_loop",
+    "user_id": "@positive_loop",
+    "description": "Community Archive-derived proof-of-search sun for @positive_loop.",
+    "document_count": 3213,
+    "word_count": 68734,
+    "active_days": 680,
+    "emissions": [
+      "Feel",
+      "Don",
+      "Think",
+      "Yeah",
+      "Want",
+      "Way"
+    ],
+    "generated_at": "2026-06-27T16:59:15.770854+00:00",
+    "color": "#f59e0b",
+    "mass": 11.138
+  },
+  "planets": [
+    {
+      "id": "planet_7ee83388fb81",
+      "name": "Feel",
+      "summary": "Archive cluster around feel: 2577 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "feel",
+        "good",
+        "now",
+        "something",
+        "love"
+      ],
+      "artifacts": [
+        {
+          "id": "art_41ad5cef08ea",
+          "title": "Feel receipt from 2024-03-09",
+          "excerpt": "I am terrified of my life becoming a tragedy of unfulfilled ambition and potential. The seriousness and paralysis this spawns turns it into a self-fulfilling prophecy. Naturally this understanding is not enough yet to let go of it",
+          "source_document_id": "1766400216100397089",
+          "timestamp": "2024-03-09T09:46:44+00:00",
+          "url": "https://x.com/positive_loop/status/1766400216100397089",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, good, now, something."
+        },
+        {
+          "id": "art_6c9815d0e4eb",
+          "title": "Feel receipt from 2024-04-19",
+          "excerpt": "Just had my happiest moment in 15 years ☺️ And it was such a gentle, easy happiness. No clinging, no aversion, no self-consciousness. Just presence\n\nAfter 5 years (more or less) of dark night I feel incredibly blessed to be coming out the other side ❤️‍🔥",
+          "source_document_id": "1781418074194727421",
+          "timestamp": "2024-04-19T20:22:20+00:00",
+          "url": "https://x.com/positive_loop/status/1781418074194727421",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, good, now, something."
+        },
+        {
+          "id": "art_a2393b8bdfb6",
+          "title": "Feel receipt from 2024-04-16",
+          "excerpt": "me and who? 🥺👉🏻👈🏻 https://t.co/TArywKh1Tx",
+          "source_document_id": "1780165805855981676",
+          "timestamp": "2024-04-16T09:26:16+00:00",
+          "url": "https://x.com/positive_loop/status/1780165805855981676",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, good, now, something."
+        },
+        {
+          "id": "art_64dcb0f02d5e",
+          "title": "Feel receipt from 2023-08-03",
+          "excerpt": "Just told my boss that I will quit ✨\nDobby is a free elf now 😄\n\nIt was nice, in the past I would agonize over that conversation so much but now it was just a 5 min check-in with myself. Also could sit with the anxiety and calm myself down. Really grateful how far I've come",
+          "source_document_id": "1687048881186484224",
+          "timestamp": "2023-08-03T10:32:51+00:00",
+          "url": "https://x.com/positive_loop/status/1687048881186484224",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: feel, good, now, something."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4833542400d0",
+      "proof_score": 1,
+      "mass": 32.493,
+      "color": "#14b8a6",
+      "cluster_id": 0
+    },
+    {
+      "id": "planet_60c6da468162",
+      "name": "Don",
+      "summary": "Archive cluster around don: 174 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "don",
+        "think",
+        "want",
+        "know",
+        "need"
+      ],
+      "artifacts": [
+        {
+          "id": "art_04915a8ceddc",
+          "title": "Don receipt from 2023-10-11",
+          "excerpt": "wait it's just dawning on me that when you get high you don't actually enter an alternate dimension. That shit is continous with all present moment experiences. It's all in the same reality!",
+          "source_document_id": "1712067868035051664",
+          "timestamp": "2023-10-11T11:29:23+00:00",
+          "url": "https://x.com/positive_loop/status/1712067868035051664",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, want, know."
+        },
+        {
+          "id": "art_ac50dc3b0f06",
+          "title": "Don receipt from 2023-01-24",
+          "excerpt": "I think I am resurfacing from the darkness. It's gonna take a while though. Don't wanna get decompression sickness",
+          "source_document_id": "1618014193487314946",
+          "timestamp": "2023-01-24T22:33:39+00:00",
+          "url": "https://x.com/positive_loop/status/1618014193487314946",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, want, know."
+        },
+        {
+          "id": "art_017e7bacaf15",
+          "title": "Don receipt from 2022-10-02",
+          "excerpt": "Awareness alone is curative\n\nYou don't need to *do* anything to get rid of addictions. Just become aware of their full reality. What you are really doing. How unsatisfying it actually is. How it doesn't actually reduce suffering\n\nThis is isn't easy but it has helped me a ton!",
+          "source_document_id": "1576489047928672256",
+          "timestamp": "2022-10-02T08:27:33+00:00",
+          "url": "https://x.com/positive_loop/status/1576489047928672256",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, want, know."
+        },
+        {
+          "id": "art_c003635cfd05",
+          "title": "Don receipt from 2022-11-25",
+          "excerpt": "The fundamental mythological struggle I find myself in is whether a life guided purely by joy and aliveness, rather than self-coercion, is viable or just a pipe dream. \nMind you I don't expect it to *consist* purely of joy and aliveness, merely that it is guided by them.",
+          "source_document_id": "1596091876951597062",
+          "timestamp": "2022-11-25T10:42:12+00:00",
+          "url": "https://x.com/positive_loop/status/1596091876951597062",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: don, think, want, know."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_7f1f63f755b4",
+      "proof_score": 0.866,
+      "mass": 25.528,
+      "color": "#f59e0b",
+      "cluster_id": 1
+    },
+    {
+      "id": "planet_d2434d19efac",
+      "name": "Think",
+      "summary": "Archive cluster around think: 133 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "think",
+        "yeah",
+        "something",
+        "really",
+        "way"
+      ],
+      "artifacts": [
+        {
+          "id": "art_6d9c29476dc1",
+          "title": "Think receipt from 2024-05-06",
+          "excerpt": "@EthanReeder I think they mean titrate the emotion by partly dissociating with something that at least keeps your self-esteem up. Can be good advice but only if you actually do titrate and let the emotions process. Otherwise you're just prolonging them by productive dissociation",
+          "source_document_id": "1787484182148464656",
+          "timestamp": "2024-05-06T14:06:53+00:00",
+          "url": "https://x.com/positive_loop/status/1787484182148464656",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, yeah, something, really."
+        },
+        {
+          "id": "art_f97228247450",
+          "title": "Think receipt from 2023-08-18",
+          "excerpt": "You know that thing that blacksmiths do when they put red hot metal into water to cool it off? I think if metal had an experience that would probably hurt a lot. More than being hot in the first place\n\nFeels like the transition from hypomania to depression to room temperature",
+          "source_document_id": "1692443904778371407",
+          "timestamp": "2023-08-18T07:50:45+00:00",
+          "url": "https://x.com/positive_loop/status/1692443904778371407",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, yeah, something, really."
+        },
+        {
+          "id": "art_03a1176673b0",
+          "title": "Think receipt from 2023-02-08",
+          "excerpt": "I think I want to develop a writing style that feels like an interleaving of poetry and hardcore conceptual work\n\nDoes anyone know any writers that resonate somewhat with this description?",
+          "source_document_id": "1623317110117089281",
+          "timestamp": "2023-02-08T13:45:33+00:00",
+          "url": "https://x.com/positive_loop/status/1623317110117089281",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, yeah, something, really."
+        },
+        {
+          "id": "art_c63f787f9230",
+          "title": "Think receipt from 2024-03-11",
+          "excerpt": "I think I want to experiment with changing my relationship to walks. Either making them purposeful, like going somewhere I want to go or more sensory and exploratory. As it is I always walk the same path and end up thinking a lot. I find that doesn't really motivate me",
+          "source_document_id": "1767213602845478940",
+          "timestamp": "2024-03-11T15:38:50+00:00",
+          "url": "https://x.com/positive_loop/status/1767213602845478940",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: think, yeah, something, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_606987ab854f",
+      "proof_score": 0.84,
+      "mass": 24.928,
+      "color": "#8b5cf6",
+      "cluster_id": 2
+    },
+    {
+      "id": "planet_0dc4555ccdd3",
+      "name": "Yeah",
+      "summary": "Archive cluster around yeah: 136 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "yeah",
+        "feels",
+        "way",
+        "actually",
+        "the_wilderless"
+      ],
+      "artifacts": [
+        {
+          "id": "art_d47e95c74148",
+          "title": "Yeah receipt from 2023-07-29",
+          "excerpt": "@literal_bagel Yeah partly by realizing that you can take less psychic damage than you thought was possible",
+          "source_document_id": "1685286949421002752",
+          "timestamp": "2023-07-29T13:51:34+00:00",
+          "url": "https://x.com/positive_loop/status/1685286949421002752",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, feels, way, actually."
+        },
+        {
+          "id": "art_70ee941f361a",
+          "title": "Yeah receipt from 2023-07-25",
+          "excerpt": "@_brentbaum Yeah I can comfortably go 5 months without income and still have an ok reserve. More if I stretch",
+          "source_document_id": "1683744384687259654",
+          "timestamp": "2023-07-25T07:41:58+00:00",
+          "url": "https://x.com/positive_loop/status/1683744384687259654",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, feels, way, actually."
+        },
+        {
+          "id": "art_7bdc844a6f27",
+          "title": "Yeah receipt from 2023-07-25",
+          "excerpt": "@RichDecibels @VividVoid_ Yeah I agree this avoids the failure modes of a formal organization handing out certifications. And practitioners could still self-certify in a way by handing out this information before a session",
+          "source_document_id": "1683705585542258689",
+          "timestamp": "2023-07-25T05:07:47+00:00",
+          "url": "https://x.com/positive_loop/status/1683705585542258689",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, feels, way, actually."
+        },
+        {
+          "id": "art_97f3d8d01052",
+          "title": "Yeah receipt from 2023-08-06",
+          "excerpt": "@this_is_silvia Haven't thought about the spell since I received it but looking back, yeah it worked https://t.co/HB6Io8Lrwq",
+          "source_document_id": "1688112824747249665",
+          "timestamp": "2023-08-06T09:00:35+00:00",
+          "url": "https://x.com/positive_loop/status/1688112824747249665",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: yeah, feels, way, actually."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_f918ceacd292",
+      "proof_score": 0.842,
+      "mass": 24.313,
+      "color": "#06b6d4",
+      "cluster_id": 3
+    },
+    {
+      "id": "planet_a8c21f26cd8b",
+      "name": "Want",
+      "summary": "Archive cluster around want: 91 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "want",
+        "now",
+        "thing",
+        "live",
+        "life"
+      ],
+      "artifacts": [
+        {
+          "id": "art_b52618aaa3d4",
+          "title": "Want receipt from 2024-04-12",
+          "excerpt": "@WhyAgaric So maybe what you want most is to be around other people? So strongly that nothing else seems worth wanting? Or maybe there's other overpowering wants",
+          "source_document_id": "1778667752946868712",
+          "timestamp": "2024-04-12T06:13:33+00:00",
+          "url": "https://x.com/positive_loop/status/1778667752946868712",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, now, thing, live."
+        },
+        {
+          "id": "art_44cf0d7820f3",
+          "title": "Want receipt from 2022-12-15",
+          "excerpt": "I can not learn to live the way I want to live by living differently and telling myself I will make the switch someday.\n\nI can only learn by living the way I want to live in whatever capacity I can manage and letting that capacity slowly expand",
+          "source_document_id": "1603508083765846016",
+          "timestamp": "2022-12-15T21:51:33+00:00",
+          "url": "https://x.com/positive_loop/status/1603508083765846016",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, now, thing, live."
+        },
+        {
+          "id": "art_abb95f9406b2",
+          "title": "Want receipt from 2024-03-27",
+          "excerpt": "I just ran my first casual improv hangout last Saturday and it went great 😊 I want to turn this into a regular thing",
+          "source_document_id": "1772951856215371972",
+          "timestamp": "2024-03-27T11:40:37+00:00",
+          "url": "https://x.com/positive_loop/status/1772951856215371972",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, now, thing, live."
+        },
+        {
+          "id": "art_a70539d9c957",
+          "title": "Want receipt from 2023-05-18",
+          "excerpt": "Went to my first temple and it went literally perfectly\n\nNot in the ego sense of \"I'll be the bestest most attractive person and everyone will want to have sex with me\"\n\nBut in the down-to-earth, doing my best and safely but effectively exploring my growth edges kind of way",
+          "source_document_id": "1659326320885616646",
+          "timestamp": "2023-05-18T22:33:18+00:00",
+          "url": "https://x.com/positive_loop/status/1659326320885616646",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: want, now, thing, live."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_4ccb200c9796",
+      "proof_score": 0.802,
+      "mass": 23.758,
+      "color": "#f43f5e",
+      "cluster_id": 4
+    },
+    {
+      "id": "planet_1434d478973b",
+      "name": "Way",
+      "summary": "Archive cluster around way: 102 posts; 4 quote-backed receipts pinned.",
+      "top_terms": [
+        "way",
+        "self",
+        "good",
+        "really",
+        "only"
+      ],
+      "artifacts": [
+        {
+          "id": "art_8099227880e1",
+          "title": "Way receipt from 2024-04-09",
+          "excerpt": "It's insane to me how large parts of the normal human emotional range have become outlawed in a way. We've created this narrow shared reality in which anything that stops you from participating in the economic game is classified as pathological",
+          "source_document_id": "1777637438585819576",
+          "timestamp": "2024-04-09T09:59:26+00:00",
+          "url": "https://x.com/positive_loop/status/1777637438585819576",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, self, good, really."
+        },
+        {
+          "id": "art_1feb34c65bc8",
+          "title": "Way receipt from 2024-03-17",
+          "excerpt": "I had a beautiful date with a girl last year that I was super excited about but life got in the way for both of us. Just messaged her on a whim if she was up for meeting again and she said yes 🥰🥰🥰",
+          "source_document_id": "1769305980561416221",
+          "timestamp": "2024-03-17T10:13:12+00:00",
+          "url": "https://x.com/positive_loop/status/1769305980561416221",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, self, good, really."
+        },
+        {
+          "id": "art_7fa45e373d6f",
+          "title": "Way receipt from 2023-08-16",
+          "excerpt": "Help I'm lost in a maze and low on faith that I will find my way out. Could I get some encouragement please? 🥺",
+          "source_document_id": "1691918344297783572",
+          "timestamp": "2023-08-16T21:02:22+00:00",
+          "url": "https://x.com/positive_loop/status/1691918344297783572",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, self, good, really."
+        },
+        {
+          "id": "art_5d91e4dc95a0",
+          "title": "Way receipt from 2022-12-17",
+          "excerpt": "@daemonhugger I dislike the faking it frame but there is an essence of wisdom underneath that works very well\n\nBasically if you behave according to your goal state, in whatever capacity you can manage, that way of being will be reinforced\n\nAuthenticity is still crucial though",
+          "source_document_id": "1604213915109527552",
+          "timestamp": "2022-12-17T20:36:16+00:00",
+          "url": "https://x.com/positive_loop/status/1604213915109527552",
+          "proof_of_search": "Community Archive row → normalized post → topic planet. Terms: way, self, good, really."
+        }
+      ],
+      "artifact_count": 4,
+      "receipt_id": "rcpt_9d5f90df43b1",
+      "proof_score": 0.813,
+      "mass": 24.112,
+      "color": "#84cc16",
+      "cluster_id": 5
+    }
+  ],
+  "provenance": {
+    "builder": "community-solar-systems-factory",
+    "source": "Community Archive raw archive + Supabase incremental dumps",
+    "archive_file": "data/archive.json",
+    "archive_posts": "data/archive_posts.jsonl",
+    "updates_dir": "data/updates",
+    "merged_posts": "data/merged_posts.jsonl",
+    "trust_os_mapping": {
+      "sun": "account corpus gravity center",
+      "planet": "visitable topic cluster",
+      "artifact": "dated quote-backed archive receipt"
+    }
+  }
+}
